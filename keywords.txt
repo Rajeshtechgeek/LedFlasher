@@ -1,0 +1,5 @@
+LedFlasher	KEYWORD1
+blinkActiveLow	KEYWORD2
+blinkActiveHigh	KEYWORD2
+acceleration1	KEYWORD2
+acceleration2	KEYWORD2
